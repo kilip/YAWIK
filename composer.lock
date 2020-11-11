@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "8d5ab7734deb26d231b440520b3b882b",
+    "content-hash": "819b2a0cfcb11d790f054af17d54b813",
     "packages": [
         {
             "name": "alcaeus/mongo-php-adapter",
@@ -8575,16 +8575,16 @@
         },
         {
             "name": "enm1989/chromedriver",
-            "version": "84.0",
+            "version": "87.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ENM1989/chromedriver.git",
-                "reference": "7483386c0ebdaaa2b13022b9a83a6a868d8bd139"
+                "reference": "ac0e51118864531808b5af494756b1a8cbc3fa9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ENM1989/chromedriver/zipball/7483386c0ebdaaa2b13022b9a83a6a868d8bd139",
-                "reference": "7483386c0ebdaaa2b13022b9a83a6a868d8bd139",
+                "url": "https://api.github.com/repos/ENM1989/chromedriver/zipball/ac0e51118864531808b5af494756b1a8cbc3fa9f",
+                "reference": "ac0e51118864531808b5af494756b1a8cbc3fa9f",
                 "shasum": ""
             },
             "bin": [
@@ -8611,9 +8611,9 @@
             ],
             "support": {
                 "issues": "https://github.com/ENM1989/chromedriver/issues",
-                "source": "https://github.com/ENM1989/chromedriver/tree/master"
+                "source": "https://github.com/ENM1989/chromedriver/tree/87.0"
             },
-            "time": "2020-06-01T20:15:39+00:00"
+            "time": "2020-11-04T16:46:07+00:00"
         },
         {
             "name": "instaclick/php-webdriver",
